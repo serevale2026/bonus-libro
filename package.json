@@ -1,0 +1,7 @@
+{
+  "name": "gialli-dopo-cena-bonus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing per il caso bonus di Gialli dopo Cena",
+  "engines": { "node": ">=18" }
+}
